@@ -109,7 +109,6 @@ Invalid Operator
 - Exception Handling
 - User Input Processing
 - Switch-Case Statements
-- Method Overloading Ready Structure
 - Clean Code Practices
 
 ## Future Enhancements
@@ -120,21 +119,9 @@ Invalid Operator
 - [ ] Support for complex numbers
 - [ ] Memory functions (M+, M-, MR, MC)
 
-## Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/new-feature`)
-3. Commit your changes (`git commit -am 'Add new feature'`)
-4. Push to the branch (`git push origin feature/new-feature`)
-5. Create a Pull Request
 
-## License
 
-This project is open source and available under the [MIT License](LICENSE).
-
-## Author
-
-**ElevateLabs**
 
 ---
 
